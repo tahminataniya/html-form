@@ -1,0 +1,25 @@
+.wrapper{
+	width: 60%;
+	margin: 0 auto;
+	border: 5px solid black;
+}
+.first_name, .last_name, .email, .password, .date of birth {
+	width: 90%;
+	height: 25px;
+	padding: 10px;
+	font-size: 18px;
+
+}
+label{
+	font-size: 20px;
+}
+.message{
+	font-size: 18px;
+	padding: 10px;
+}
+.button{
+	width: 100px;
+	min-height: 10px;
+	border: 5px solid black;
+	background-color: blue;
+}
